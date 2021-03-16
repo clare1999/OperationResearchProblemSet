@@ -1,8 +1,11 @@
 # OperationResearchProblemSet
 <h3>Matlab in Economics and Management Science<h3>
-<p>course taken in BFSU</p>
-<b>given by Xi Chen</b>
-<b>final score: 95</b>
+ 
+<ul>
+  <li>course taken in BFSU</li>
+  <li>given by Xi Chen</li>
+  <li>final score: 95</li>
+</ul>
   
 <ul>
   <li>ps1</li>
